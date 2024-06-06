@@ -45,6 +45,7 @@ State management is handled using view models that extend `ChangeNotifier`, enab
 
 <p><strong>App Screenshots:</strong>&nbsp;</p>
 
+![](Screenshots//firestore_screenshot.png)
 ![](Screenshots/Screenshot_1594717551_pixel_quite_black_portrait.png)
 ![](Screenshots/Screenshot_1594717559_pixel_quite_black_portrait.png)
 ![](Screenshots/Screenshot_1594717567_pixel_quite_black_portrait.png)
