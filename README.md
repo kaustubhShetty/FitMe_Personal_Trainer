@@ -6,7 +6,7 @@
 
 
 ## Overview
-FitMe Personal Trainer is a fitness application built using Flutter with an MVC architecture. It offers personalized workout routines and comprehensive exercise instructions.
+FitMe Personal Trainer is a fitness application built using Flutter with an MVVM architecture. It offers personalized workout routines and comprehensive exercise instructions.
 
 ## Features
 - **User Authentication**: Login and registration using Firebase Firestore.
