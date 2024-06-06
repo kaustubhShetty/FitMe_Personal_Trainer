@@ -1,6 +1,6 @@
 # FitMe Personal Trainer
 
-<p><strong>Click Below to Watch the Video:</strong>&nbsp;</p>
+<p><strong>Click on the gif below to Watch the Video:</strong>&nbsp;</p>
 
 [![Watch the video](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW9xN3ZmcmxndXpmaDd6bXY0bWI2b253cm1kcmJ5MnRuMGsxbnV5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WFmjWifrj9DJ50YaXj/giphy.gif)](https://drive.google.com/file/d/1HMmwnuccLZfG1_QKh99epKUqceK_fT8E/view?usp=sharing)
 
